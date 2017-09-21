@@ -1,0 +1,1042 @@
+LEXICA_LIBRARY
+music lib
+music library
+medical lib
+dental library
+dental lib
+law library
+library
+libraries
+main lib
+main library
+Edu library
+education library
+Law Library
+medical library
+law library
+Main Library
+Lui Che Woo Law Library
+Dental Library
+Medical library
+education lib
+main library
+law lib
+lui che woo law library
+lui che woo library
+yu chun keung medical library
+lcw law library
+yck medical library
+yck med library
+university library
+hkall library
+edu library
+lib
+hkul
+
+LEXICA_CONTACT
+telephone number
+tel no.
+tel no
+telephone no.
+telephone
+address
+email
+phone
+whatsapp
+contact detail
+contact
+
+LEXICA_BUSINESSHOURLABEL
+business hour
+business hours
+opening hour
+opening hours
+service hour
+service hours
+
+LEXICA_GRADUATE
+alumni
+ex-student
+exstudent
+graduate
+
+LEXICA_FACILITY
+space
+single study room
+quiet table
+group viewing room
+av viewing room
+study table
+study tables
+research carrels
+computer
+discussion rooms
+discussion room
+study room
+quiet study table
+room
+computers
+research carrel
+viewing room
+av group viewing room
+quiet study space
+discussion room
+study space
+av room
+
+LEXICA_STAFFTYPE
+academic staff
+research staff
+admin staff
+administrative staff
+senior admin staff
+senior administrative staff
+junior admin staff
+junior administrative staff
+honorary staff
+honor staff
+technician
+non-academic staff
+non academic staff
+space academic staff
+space non-academic staff
+space non academic staff
+space part time tutor
+space part-time tutor
+space tutor
+
+LEXICA_WEEKDAY
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday
+mon
+tues
+tue
+wed
+thurs
+thur
+fri
+sat
+sun
+
+LEXICA_PARTOFDAY
+night
+evening
+morning
+afternoon
+lunch hour
+lunch time
+right now
+now
+
+LEXICA_DAYSLANG
+tomorrow
+today
+yesterday
+
+LEXICA_MEMBERSHIP
+cof member
+cof card
+joint university librarians advisory committee library card
+julac library card
+joint university librarians advisory committee card
+library card
+circle of friends platinum member
+spouse library card
+wife's library card
+julac card
+
+LEXICA_SUBJECT
+law
+architecture
+art
+literature
+business
+philosophy
+politics
+politic
+agriculture
+economics
+economic
+design
+
+LEXICA_LOCATION
+law faculty building
+
+LEXICA_UNIVERSITY
+hku
+cuhk
+cu
+poly
+hkust
+ust
+baptist
+polyu
+city
+cityu
+yale
+
+LEXICA_STUDYLEVEL
+master
+year 1
+year 2
+year 3
+year 4
+year one
+year two
+year three
+year four
+final year
+first year
+second year
+third year
+forth year
+freshman
+sophmore
+
+LEXICA_PRINTING
+black & white
+black & whites
+color
+colors
+colour
+colours
+b&w
+b&ws
+single side
+single sides
+single sided
+double side
+double sides
+double sided
+printer
+printers
+copier
+copiers
+photocopier
+photocopiers
+black and white
+black and whites
+b/w
+b/ws
+black/white
+black/whites
+microfilm
+microfilms
+microfiche
+microfiches
+transparency printing
+transparency printings
+wireless printing
+wireless printings
+print job
+print jobs
+microform
+microforms
+
+LEXICA_TRAINING
+workspace
+workspaces
+tutorial
+tutorials
+seminar
+seminars
+course
+courses
+training
+trainings
+orientation
+orientations
+
+LEXICA_LIBRARYMATERIAL
+book
+ebook
+e-book
+journal
+ejournal
+e-journal
+book material
+ebook material
+e-book material
+journal material
+ejournal material
+e-journal material
+paper
+epaper
+e-paper
+article
+av material
+audio visual material
+audio visual
+audio-visual
+resource item
+library resource
+resource
+eresource
+e-resource
+media
+material
+biography
+biographie
+storybook
+cd
+dvd
+video
+clip
+audio
+doctoral dissertation
+dissertation
+essay
+newspaper
+magazine
+books
+ebooks
+e-books
+journals
+ejournals
+e-journals
+book materials
+ebook materials
+e-book materials
+journal materials
+ejournal materials
+e-journal materials
+papers
+epapers
+e-papers
+articles
+av materials
+audio visual materials
+audio visuals
+audio-visuals
+resource items
+library resources
+resources
+eresources
+e-resources
+resource
+eresource
+e-resource
+medias
+materials
+biographys
+biographies
+storybooks
+CDs
+DVDs
+cds
+dvds
+videos
+clips
+audios
+doctoral dissertations
+dissertations
+essays
+newspapers
+magazines
+fictions
+doctoral dissertation
+dissertation
+essay
+newspaper
+magazine
+fiction
+movie
+film
+movies
+films
+reference book
+bound serials
+bound serial
+open stack bound serials
+open stack bound serial
+current serials
+current serial
+pamphlets
+pamphlet
+best sellers
+best seller
+
+LEXICA_GENRE
+crime
+fantasy
+romance
+sci-fi
+sci fi
+science fiction
+western
+inspirational
+horror
+
+LEXICA_LIBRARYSTAFF
+librarian
+your staff
+librarians
+your staffs
+you
+library staff
+library worker
+your worker
+your people
+
+LEXICA_INTERNET
+wireless
+wifi
+wi-fi
+hotspot
+internet
+wifis
+wi-fis
+hotspots
+internets
+
+LEXICA_PAYMENT
+fine
+fines
+penalty
+penalties
+late payment
+late payments
+charge
+charges
+payment
+payments
+fee
+fees
+
+LEXICA_BOOKNAME
+london the 21st century
+Alice in the WOnderland
+Moby Dick
+beauty and the beast
+Harry Potter
+rich dad poor dad
+alice in the wonderland
+three little pigs
+harry potter
+moby dick
+
+LEXICA_DEPENDENT
+wife
+partner
+life partner
+spouse
+child
+children
+kid
+boy
+girl
+son
+daughter
+kids
+boys
+girls
+sons
+daughters
+
+LEXICA_TOPIC
+hksar since 1997
+building structure
+agile architecture
+historical 11/9
+classical art
+macro-economics
+history of nba
+dubai
+how minorities are treated in classrooms
+cures for cancer
+postmodernism
+amazon
+postmodern
+postmodern architecture
+london
+modern architecture
+political news
+machine learning
+open group certified architect program
+first world war
+Western United States
+Spiritual renewal
+International economics
+Population
+Paleobotany fossil microorganisms
+Scandinavia
+History of Christianity in other areas
+Classical Greek poetry
+Miscellany of history
+Comparative religion
+German letters
+Peru
+Public worship
+Infinity
+Manufacture for specific uses
+Philosophy
+Celestial navigation
+General statistics of North America
+Teleology
+Self Defense
+Mental derangements
+Analytical chemistry
+Personnel management
+Bryophyta
+Serial publications
+South Asia to 647
+Encyclopedias in Slavic languages
+South Indian Ocean islands
+Music
+Celestial mechanics
+General statistics of South America
+Philosophical logic
+Emotions
+Genre paintings
+Genetics and evolution
+Italian drama
+Knowledge
+Canada
+Other branches of engineering
+Earth sciences
+Books notable for bindings
+Insect culture
+Other parts of Europe
+Classical Greek speeches
+Crystallography
+Public structures
+Doctrines
+Auxiliary construction practices
+Etymology of standard Italian
+German speeches
+Sanitary engineering
+Creation
+Historical books of Old Testament
+Factors affecting social behavior
+Philosophy of Germany and Austria
+Christian denominations
+Italian fiction
+Brazil
+General libraries
+Etymology of classical Greek
+Grammar of classical Greek
+Latin miscellaneous writings
+Collections in other languages
+Adult education
+Applied physics
+Literatures of North American native languages
+Sources
+Biographies
+Guiana
+Fluid mechanics
+Geography and history of medicine
+Biochemistry
+Causation
+Invertebrates
+Manufacturing
+American literature in English
+Other literatures
+English essays
+North American native languages
+Building materials
+Texts of sermons
+Collections in Scandinavian languages
+Bibliographies of individuals
+Museum science
+Textile arts
+Fossil Arthropoda
+Psychology
+Etymology of standard German
+Graphic representations of surface of earth and of extraterrestrial worlds
+Human physiology
+Photographic images
+Grammar of standard French
+French drama
+General statistics of Europe
+Philosophy of Spain and Portugal
+History of Europe
+British Isles
+Statistics
+Household utilities
+Japan
+Spanish fiction
+Color
+Methodology
+Books notable for format
+Economic geology
+French miscellaneous writings
+Eastern philosophy
+Serials in Scandinavian languages
+Death customs
+Writing systems of standard forms of languages
+Etymology of standard English
+Shorthand
+China to 420
+Special topics of language
+Theory of philosophy
+Dictionaries of standard English
+Italian miscellaneous writings
+Bibliographies of works on specific subjects
+Library operations
+Perspective in drawing
+Structures in landscape architecture
+Spanish miscellaneous writings
+Christianity in Asia
+Petrology
+Manuscripts and rare books
+Interior decoration
+Communities
+outcast studies
+The Arts
+Ethical education
+Agriculture
+Newspapers in British Isles in England
+Earth sciences of Asia
+Venezuela
+Miscellany
+Anatomy of the brain
+Postal communication
+Literatures of other Italic languages
+Dictionaries of standard forms of languages
+Other languages
+extraterrestrial worlds
+Bible
+French fiction
+Collections in other Germanic languages
+Persecutions in church history
+Italian poetry
+Classical Greek drama
+American essays in English
+Stoic philosophy
+Specific philosophical schools and viewpoints
+Social processes
+Encyclopedias in other Germanic languages
+Medical research
+Earth sciences of Africa
+Organizations in central Europe in Germany
+Analysis
+Encyclopedias in English
+Public worship and other practices
+Military science
+Germanic religion
+General considerations of public administration
+Technology of industrial chemicals
+Architecture
+Serials in other languages
+Systems
+Astronomy
+United States
+Grammar of standard English
+Earth sciences of Europe
+Law of nations
+Public policy issues in education
+American miscellaneous writings in English
+Argentina
+Analogy
+Ethics of family relationships
+English Poetry
+Engineering
+Grammar of standard forms of languages
+Bibliographies of works from specific places
+Medieval Western philosophy
+Etymology of standard French
+Puzzle activities
+Block books
+Water features in landscape architecture
+Religious congregations and orders in church history
+English letters
+Geometry
+Latin letters
+Specific topics in natural history of animals
+Etymology of standard Spanish
+Law
+German poetry
+Christian observances in family life
+Glass
+History of sociology
+Classical Greek letters
+Plants noted for specific vegetative characteristics and flowers
+Missions and religious education
+Algeria
+Bolivia
+Serials in American English
+Etymology of classical Latin
+Prosody
+Local Christian church and Christian religious orders
+German miscellaneous writings
+Painting
+Social interaction
+Topology
+Games of chance
+Hypotheses
+Critical philosophy
+Social sciences
+Dictionaries of standard German
+Economics
+Pigment processes of printing
+Books notable for ownership or origin
+Religious ethics
+Aristotelian philosophy
+Groups of people
+History of Africa
+Sign languages
+Physical chemistry
+Magnetism
+Extraterrestrial worlds
+Administration of physical plant
+Christianity in North America
+Food technology
+Spanish poetry
+Bibliography
+Criminology
+Criminal law
+Diseases
+Australia
+Professions hygiene and health
+Newspapers in other geographic areas
+Encyclopedias in American English
+Antarctica
+Encyclopedias in other languages
+Quantitative analysis
+Natural landscapes
+Inorganic chemistry
+German drama
+Change
+Platonic philosophy
+Books notable for illustrations
+Cooperatives
+Pacific Ocean islands
+American letters in English
+Fossil Mammalia
+African literatures
+Palestine to 70
+Structure
+Anatomy of the sense organs and nervous system
+Mathematical geography
+Landscape architecture of trafficways
+Art metalwork
+Other ethical norms
+Arctic islands
+General encyclopedic works
+Christianity in South America
+Epistemology
+Animals
+Human figures
+Other Germanic literatures
+Italian essays
+Collections in Slavic languages
+Epistles
+Household furnishings
+French letters
+Collections in American English
+Divinatory graphology
+Atlantic Ocean islands
+Architecture from 1400
+History of South America
+Analogies
+Modern physics
+Political ethics
+Modern Western philosophy
+The self
+Manuscripts
+Mormonism
+Prayer
+Metallic salt processes
+Humankind
+Dictionaries of classical Latin
+American poetry in English
+Other Hellenic languages
+Etymology of standard forms of languages
+General statistics of Africa
+Organizations in eastern Europe in Russia
+Spanish letters
+Grammar of standard Italian
+Dictionaries of standard Spanish
+Incunabula
+Metallurgy
+Religious societies
+Spiritual beings
+Philosophy in other geographic areas
+Organizations in other geographic areas
+Railroad transportation
+Sculpture from 1400
+Detail finishing
+Organic chemistry
+German and related languages
+Associations for religious work
+Ephemerides
+French essays
+Religious education
+Determinism and indeterminism
+Spanish drama
+Encyclopedias in Scandinavian languages
+English speeches
+Fossil Chordata
+Arts
+Central Asia
+Experimental medicine
+Earth sciences of North America
+Labor economics
+Ethical systems
+New Testament
+Heat
+Linguistics
+South central United States
+Intellect
+Specific topics in natural history of plants
+Digital photography
+Classical mechanics
+Animal husbandry
+North central United States
+Associations
+Iran
+Chile
+Sensationalism
+Financial economics
+American drama in English
+Organizations
+Ensembles with only one instrument per part
+Parish administration
+Doctrinal controversies and heresies in general church history
+Public performances
+Theory and methods
+Collections in English
+Philosophy of the British Isles
+Parochial medicine
+Egypt to 640
+History of Asia
+Anglican churches
+Philosophical schools of thought
+Ecology
+Quotations
+Libraries for specific subjects
+Dictionaries of standard Italian
+Missions
+Philosophy of the United States and Canada
+American speeches in English
+Folklore
+Eschatology
+Philosophy of France
+Concepts of God
+Technology of other organic products
+Epicurean philosophy
+Chemical engineering
+Arithmetic
+History
+Public administration
+Manufacture of products for specific uses
+Transportation
+Education of women
+English prosodies
+Number and quantity
+General principles of mathematics
+Chordata
+Historical geography
+Education
+History of North America
+Landscape design of cemeteries
+Occupational ethics
+Other Italic languages
+Devotional literature
+English miscellaneous writings
+Pteridophyta
+Woody plants in landscape architecture
+Ecclesiology
+Space
+Metaphysics
+Philosophy of Italy
+Civil engineering
+Plants
+Utilities
+Poetic books of Old Testament
+Classical Greek lyric poetry
+Private law
+Construction of buildings
+Science
+Portuguese
+Collected accounts of events
+Grammar of classical Latin
+Special computer methods
+Forestry
+Denominations and sects of Christian church
+Special topics
+Theodicy
+New Zealand
+Earth sciences of Australasia
+Communications
+Textiles
+Numerical analysis
+Medical encyclopedias
+Newspapers in eastern Europe in Russia
+Dictionaries of standard French
+Earth sciences of South America
+Herbaceous plants in landscape architecture
+Religion
+Leaders and organization
+Applied psychology
+Religions of Indic origin
+International relations
+Insurance
+Algebra
+Public finance
+French poetry
+Fossil invertebrates
+Hydraulic engineering
+History with respect to groups of people
+Qualitative analysis
+Nonferrous metals
+Latin lyric poetry
+Music for single voices
+Serials in English
+Mineralogy
+Paleontology
+Biology
+English drama
+Ethics of consumption
+Mathematics
+General management
+English thesauruses
+Chemistry
+History of Christianity
+The legislative process
+Modern Greek literature
+Physiognomy
+Philosophy of Russia
+Collections of general statistics
+Vocal music
+Latin poetry
+Secondary education
+Classical Greek miscellaneous writings
+Production
+Ethics of social relations
+Syllogisms
+German essays
+Newspapers in Scandinavia
+Natural history
+Religions not provided for elsewhere
+Hymnology
+Role of the natural environment
+Organizations in British Isles in England
+Polygraphy
+Christianity in Europe
+Arthropoda
+Deduction
+American fiction in English
+Housekeeping
+Social theology and interreligious relations and attitudes
+Literatures of other specific languages and language families
+Literatures of South American native languages
+Judaism
+Prophetic books of Old Testament
+Future state
+Christianity in Africa
+Methodist churches churches related to Methodism
+Pharmacology and therapeutics
+Patents
+Holography
+Newspapers in central Europe in Germany
+Time
+General clubs
+Specific fields of public administration
+Chronology
+Wood construction
+General serial publications
+Southeast Asia
+Other Germanic languages
+African languages
+Grammar of standard German
+Christian moral and devotional theology
+Unitarian
+Force and energy
+Roman Catholic Church
+Indoor games of skill
+Spanish speeches
+Greece to 323
+History of other areas
+Grammar of standard Spanish
+Spanish essays
+Mental characteristics
+Political science
+Evangelistic writings for individuals and families
+Christianity
+General statistics of Asia
+Decorative arts
+Stage presentations
+Serials in Slavic languages
+Christian social and ecclesiastical theology
+Roof covering
+German fiction
+Serial publications of history
+Sects and reform movements
+Christian ethics
+Physics
+Religious fiction
+The Bible
+Italian speeches
+Language
+Newspapers in North America
+Serials in other Germanic languages
+Phrenology
+Ceramic arts
+Comparative psychology
+South American native languages
+Other parts of ancient world
+Technology
+General customs
+Induction
+Use of art in Christianity
+Beverage technology
+Italian letters
+Bibliographies
+Organizations in North America
+Office services
+English fiction
+Curricula
+The political process
+Processes of written communication
+Evil
+French speeches
+Accounting
+Metal engraving
+Graphic arts
+World history
+Dictionaries of classical Greek
+Latin speeches
+Other religions
+God
+Other products of specific kinds of materials
+Ethics
+Ontology
+Printed books
+
+LEXICA_AUTHENTICATION
+password
+pin
+portal uid
+passcode
+passwords
+pins
+portal uids
+passcodes
+
+LEXICA_GREETING
+hi
+hey
+hello
+good morning
+good afternoon
+good evening
+
+LEXICA_LIBRARYSYSTEM
+system
+portal
+website
+platform
+
+LEXICA_PUBLICHOLIDAY
+new years eve
+new years
+xmas
+christmas
+mid autumn
+dragon boat

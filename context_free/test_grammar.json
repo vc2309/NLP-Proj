@@ -1,0 +1,14 @@
+
+{
+	S -> NP PP Topic | VP NP PP Topic | Ask VP NP PP Topic
+	NP -> N | Det N
+	Ask -> 'please' | 'can' Person | 
+	VP -> V | V 'me'
+	PP -> 'about'| 'on' | 'for' | 'regarding' | 'from'
+	N -> 'books'|'articles'|'journals'|'book'
+	Det -> 'the'|'a'|'some'
+	Person -> 'you'
+	V -> 'find'|'help'
+	Topic -> 'architecture' |'maths' | 'math' | 'calculus' | 'art' | 'arts' | 'economics' | 'econ' | 'politics' | 'commerce' | 'computer_science' | 'engineering' | 'music' | 'dance' | 'english' | 'chinese' | 'biology' | 'postmodern_architecture'
+
+}
